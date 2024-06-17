@@ -1,1 +1,1 @@
-# slidingMenu
+Welcome to SlidingMenu! A responsive webpage with a unique menu toggle feature, where each link slides in to occupy 20% of the screen horizontally. Explore the code and features below. #SlidingMenu #WebDevelopment #ResponsiveDesign
